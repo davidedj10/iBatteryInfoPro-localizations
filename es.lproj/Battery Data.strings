@@ -1,0 +1,11 @@
+"ACTUAL_CAPACITY" = "Capacidad actual";
+"ACTUAL_MAX_CAPACITY" = "Capacidad máx. actual";
+"BATTERY_DATA" = "Datos de la batería";
+"BATTERY_DATA_DESCRIPTION" = "Para que se muestre el valor correcto de 'Capacidad máx. actual' y 'Capacidad perdida' se deberá dejar el dispositivo cargando aunque marque el 100% de carga, durante 30-45 minutos. (Nota: no todos los dispositivos muestran la misma cantidad de información sobre su batería, de manera que si en algún apartado no se muestra nada, es que en tu dispositivo no se muestra esa información. Este tweak recopila datos detallados*.)";
+"CYCLE_COUNT" = "Cantidad de ciclos";
+"FULLY_CHARGED" = "Cargado completamente";
+"LOST_CAPACITY" = "Capacidad perdida";
+"MAX_CAPACITY" = "Capacidad máxima";
+"RAW_INFORMATIONS" = "Información detallada de la batería";
+"TEMPERATURE" = "Temperatura";
+"WIPE_CACHE" = "Wipe Cache";

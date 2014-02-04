@@ -1,0 +1,7 @@
+"COMMUNITY_DATA" = "Para ver los envíos de la Comunidad haz clic aquí. Puedes acceder al siguiente sitio web desde tu escritorio del PC a través de esta dirección: http://spottedup.net/";
+"DATA_SHARING" = "Compartir datos";
+"DATA_SHARING_ABOUT" = "En este apartado puedes enviar datos sobre tu batería de manera anónima al iBatteryInfo Center, y consultar datos de otras baterías de otros usuarios (para comparar valores).";
+"LAST_SUBMIT" = "Último envío: ";
+"SEE_COMMUNITY_DATA" = "Ver datos de la Comunidad";
+"SUBMIT_DATA" = "Enviar los datos de tu batería";
+"SUBMIT_DESCRIPTION" = "El envío de datos puede tardar un rato. Cuando finalice el proceso se mostrará un pop-up para informarte del resultado de la operación (obviamente necesitarás una conexión WiFi o de Datos para hacerlo). Los datos que envíes no serán rastreados. Tu dirección IP tampoco será almacenada en el servidor.";

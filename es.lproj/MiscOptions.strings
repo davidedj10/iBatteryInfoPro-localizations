@@ -1,0 +1,11 @@
+"CELSIUS_TO_F" = "Celsius a Fahrenheit";
+"CELSIUS_TO_F_DESCRIPTION" = "Con esta opción puedes convertir el valor de la temperatura de Celsius a Fahrenheit.";
+"ENABLE" = "Activar";
+"FULLCHARGE_DESC" = "Muestra una alerta cuando el dispositiva está completamente cargado (también cuando conectas y desconectas el cable y el dispositivo está completamente cargado).";
+"FULLCHARGE_WARNING" = "Aviso de carga completa";
+"MISC_OPTIONS" = "Opciones variadas";
+"STATUSBAR_DESC" = "Muestra los mAh restantes al lado de la hora (Respring necesario).";
+"STATUSBAR_MAH" = "mAh restantes en el StatusBar";
+"TIME_MODE" = "Tipo de hora";
+"UNSUPPORTED_CABLE_DISABLE" = "Desactivador de cable no soportado (¡muy Beta!)";
+"UNSUPPORTED_DESC" = "Esta opción permite desactivar el aviso de 'Accesorio no soportado' cuando el dispositivo se conecta a un cable no certificado. (Esta es una función muy Beta y no funciona del todo.) *Algunos cables no certificados pueden causar daños a tu dispositivo, úsalo bajo tu propio riesgo.";

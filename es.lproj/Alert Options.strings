@@ -1,0 +1,17 @@
+"ACTIONS_TO_DO" = "Otras acciones a realizar: ";
+"AIRPLANE_MODE" = "Modo avión";
+"ALERT_OPTIONS" = "Opciones de alerta";
+"APPLY_RESPRING" = "¡Aplicar y Respring!";
+"BATTERY_ALERT_DESCRIPTION" = "Aquí puedes establecer funciones de alerta personalizadas que ejecutarán algunas acciones que puedes establecer, para poder ahorrar batería o reservar un porcentaje para poder realizar llamadas de emergencia o mensajes antes de que se apague el dispositivo.";
+"BATTERY_PERCENTAGE" = "Porcentaje de batería";
+"BOTTOM_DESCRIPTION" = "Las acciones seleccionadas se llevarán a cabo en el momento en el que la batería esté al porcentaje seleccionado.";
+"CUSTOM_BATTERY_ALERT" = "Alerta de batería personalizada";
+"DIM_DESCRIPTION" = "Selecciona el porcentaje de brillo (obviamente es mejor seleccionar un valor bajo para evitar el gasto de batería).";
+"DIM_SCREEN" = "Brillo de la pantalla";
+"DISABLE_BLUETOOTH" = "Desactivar Bluetooth";
+"DISABLE_GPS" = "Desactivar GPS";
+"ENABLE" = "Activar";
+"ENABLE_DIM" = "Activar regulación del brillo";
+"PERCENTAGE_DESCRIPTION" = "El valor seleccionado aquí será el porcentaje en el cual se mostrará la alerta";
+"POPUP_WARNING" = "Popup de aviso";
+"VIBRATE" = "Vibración";
