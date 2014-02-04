@@ -1,0 +1,11 @@
+"BATTERY_DATA" = "Batterie Eigenschaften";
+"BATTERY_DATA_DESCRIPTION" = "Um die genauen werte von 'Aktuelle Max. Kapazität' und 'Verlorene Kapazität' zu ermitteln musst du dein iDevice 30-45 Minuten laden lassen nachdem es 100% erreicht hat. Nicht alle iDevices zeigen Alle Informationen an d.h. wenn manche Felder leer sind liegt das daran das das iDevice diese die Information nicht anzeigt. Dieser Tweak zeigt auch die Raw Betterie Informationen an.";
+"RAW_INFORMATIONS" = "Raw Batterie Informationen";
+"FULLY_CHARGED" = "Voll Geladen";
+"MAX_CAPACITY" = "Max Kapazität";
+"CYCLE_COUNT" = "Ladezyklen";
+"TEMPERATURE" = "Temperatur";
+"ACTUAL_CAPACITY" = "Aktuelle Kapazität";
+"ACTUAL_MAX_CAPACITY" = "Aktuelle Max. Kapazität";
+"LOST_CAPACITY" = "Verlorene Kapazität";
+"WIPE_CACHE" = "Cache löschen";

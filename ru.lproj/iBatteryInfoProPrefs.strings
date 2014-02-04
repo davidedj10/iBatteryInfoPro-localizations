@@ -1,0 +1,17 @@
+"GENERAL_SETTINGS" = "Общие настройки";
+"ENABLE" = "Включить";
+"ENABLE_DESCRIPTION" = "(Включить или Виключить iBatteryInfoPro).";
+"TOGGLES" = "Ярлыки";
+"CONNECT_AC" = "Подключение AC";
+"DISCONNECT_AC" = "Отключение  AC";
+"ACTIVATOR_GESTURE" = "Действия Activator";
+"ACTIVATION_METHOD" = "Метод активации ";
+"ACTIVATION_METHOD_DESCRIPTION" = "Установи как показывать Pop-UP! (Можешь установить действия Activator'a в такой манере что бы показывать наиболее важную информацию где ты хочешь).";
+"TOOLS" = "Инструменты ";
+"ALERT_OPTIONS" = "Опции оповещения";
+"ADVANCED_INFORMATIONS" = "Расширенная информация";
+"BATTERY_DATA" = "Информация о батарее";
+"CABLE_INFO" = "Информация кабеля";
+"DATA_SHARING_CENTER" = "Центр Обмен данными ";
+"DATA_SHARING" = "Обмен данными";
+"MISC_OPTIONS" = "Различные опции";

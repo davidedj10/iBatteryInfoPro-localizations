@@ -1,0 +1,17 @@
+"CUSTOM_BATTERY_ALERT" = "Avviso Personalizzato";
+"BATTERY_ALERT_DESCRIPTION" = "Qui puoi impostare una serie di parametri che verranno eseguiti al raggiungimento di una determinata percentuale della batteria (da te scelta), che ti permetteranno di creare una sorta di zona di percentuale sicura in cui puoi effettuare chiamate o mandare sms di emergenza prima che il device si spenga.";
+"ENABLE" = "Abilita";
+"BATTERY_PERCENTAGE" = "Percentuale Batteria";
+"PERCENTAGE_DESCRIPTION" = "Le azioni verranno eseguite alla percentuale scelta.";
+"ACTIONS_TO_DO" = "Altre azioni da eseguire: ";
+"VIBRATE" = "Vibra";
+"AIRPLANE_MODE" = "Modalità in aereo";
+"POPUP_WARNING" = "Avviso Pop-up";
+"DISABLE_BLUETOOTH" = "Disabilita Bluetooth";
+"DISABLE_GPS" = "Disabilita GPS";
+"DIM_SCREEN" = "Riduci luminosità schermo";
+"ENABLE_DIM" = "Abilita riduzione luminosità schermo";
+"DIM_DESCRIPTION" = "Seleziona la percentuale di luminosità da applicare. (Ovviamente impostare un valore basso aiuta a risparmiare energia)";
+"APPLY_RESPRING" = "Applica e fai un Respring!";
+"BOTTOM_DESCRIPTION" = "*Le seguenti azioni verranno eseguite al raggiungimento della percentuale da te scelta.";
+"ALERT_OPTIONS" = "Opzioni Avviso"; 

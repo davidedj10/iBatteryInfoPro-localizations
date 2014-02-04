@@ -1,0 +1,17 @@
+"CUSTOM_BATTERY_ALERT" = "Eigenen Batterie Alarm";
+"BATTERY_ALERT_DESCRIPTION" = "Hier kannst du eine eigene Alarmfunktion erstellen, die ausgeführt wird, wenn die Batterie sich dem Ende neigt, um Energie zu sparen oder einen Puffer für Notrufe oder SMS zu schaffen, bevor dein iDevice aus geht.";
+"ENABLE" = "Aktivieren";
+"BATTERY_PERCENTAGE" = "Batterie in % anzeigen";
+"PERCENTAGE_DESCRIPTION" = "ieser Wert wird statt der Prozent anzeige angezeigt wenn der Alarm angezeigt wird.";
+"ACTIONS_TO_DO" = "Andere mögliche Optionen: ";
+"VIBRATE" = "Virbrieren";
+"AIRPLANE_MODE" = "Flugzeug modus";
+"POPUP_WARNING" = "Popup Warunung";
+"DISABLE_BLUETOOTH" = "Bluetooth deaktivieren";
+"DISABLE_GPS" = "GPS deaktivieren";
+"DIM_SCREEN" = "Bildschirmhelligkeit dimmen";
+"ENABLE_DIM" = "Bildschirmhelligkeit dimmen Aktivieren";
+"DIM_DESCRIPTION" = "Stufenauswahl der Bildschirm dimmung. (Es ist besser eine geringe Stufe einzustellen um Energie zu sparen.)";
+"APPLY_RESPRING" = "Übernehmen und Springboard neustarten";
+"BOTTOM_DESCRIPTION" = "The selected actions will be performed at the moment in which the battery will be at the selected percentage.";
+"ALERT_OPTIONS" = "Alarm optionen";

@@ -1,0 +1,7 @@
+"DATA_SHARING_ABOUT" = "In this section you can send data about your battery anonymously to iBatteryInfo Center and consult other users battery data (to compare values).";
+"LAST_SUBMIT" = "Last Submit: ";
+"SUBMIT_DESCRIPTION" = "Sending data may take a while, when the process is finished a pop-up will be showed to tell the result of the operation. (Obviously you will need a WiFi or a 3G connection to do that). The data you send will not be traced back to you, neither your IP address will not be stored on the server.";
+"SUBMIT_DATA" = "Submit your battery data";
+"COMMUNITY_DATA" = "To see the community submissions press here. You can access to the following site from your desktop pc though this address: http://spottedup.net/";
+"SEE_COMMUNITY_DATA" = "See Community data";
+"DATA_SHARING" = "Data Sharing";

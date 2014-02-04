@@ -1,0 +1,17 @@
+"GENERAL_SETTINGS" = "Impostazioni Generali";
+"ENABLE" = "Abilita";
+"ENABLE_DESCRIPTION" = "(Abilita o Disabilita iBatteryInfoPro).";
+"TOGGLES" = "Scorciatoie";
+"CONNECT_AC" = "Connessione AC";
+"DISCONNECT_AC" = "Disconnessione AC";
+"ACTIVATOR_GESTURE" = "Gesture di Activator";
+"ACTIVATION_METHOD" = "Metodo di Attivazione";
+"ACTIVATION_METHOD_DESCRIPTION" = "Imposta come mostrare il Pop-UP! (Puoi impostare una gesture con Activator in modo da mostrare le informazioni più importanti dove vuoi tu!).";
+"TOOLS" = "Strumenti";
+"ALERT_OPTIONS" = "Opzioni di Avviso";
+"ADVANCED_INFORMATIONS" = "Informazioni Avanzate";
+"BATTERY_DATA" = "Informazioni Batteria";
+"CABLE_INFO" = "Informazioni Cavetto";
+"DATA_SHARING_CENTER" = "Centro condivisione Dati";
+"DATA_SHARING" = "Condivisione Dati";
+"MISC_OPTIONS" = "Opzioni Varie";

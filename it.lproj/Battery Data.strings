@@ -1,0 +1,11 @@
+"BATTERY_DATA" = "Informazioni Batteria";
+"BATTERY_DATA_DESCRIPTION" = "Per visualizzare valori corretti della 'Capacità Massima Attuale' e della 'Capacità Persa' devi lasciare il device sotto carica anche dopo il raggiungimento del 100% per altri 30-45 minuti. (N.B.: Non tutti i dispositivi forniscono la stessa quantità di informazioni sullo stato della batteria*.)";
+"RAW_INFORMATIONS" = "Informazioni";
+"FULLY_CHARGED" = "Completamente Carico";
+"MAX_CAPACITY" = "Capacità Massima";
+"CYCLE_COUNT" = "Cicli di ricarica";
+"TEMPERATURE" = "Temperatura";
+"ACTUAL_CAPACITY" = "Capacità Attuale";
+"ACTUAL_MAX_CAPACITY" = "Capacità Massima Attuale";
+"LOST_CAPACITY" = "Capacità Persa";
+"WIPE_CACHE" = "Rimuovi Cache";

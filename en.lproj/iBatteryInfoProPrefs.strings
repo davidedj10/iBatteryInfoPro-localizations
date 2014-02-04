@@ -1,0 +1,17 @@
+"GENERAL_SETTINGS" = "General Settings";
+"ENABLE" = "Enable";
+"ENABLE_DESCRIPTION" = "(Enable or Disable iBatteryInfoPro).";
+"TOGGLES" = "Toggles";
+"CONNECT_AC" = "Connect AC";
+"DISCONNECT_AC" = "Disconnect AC";
+"ACTIVATOR_GESTURE" = "Activator Gesture";
+"ACTIVATION_METHOD" = "Activation Method";
+"ACTIVATION_METHOD_DESCRIPTION" = "Set what pop-up show! (You can set anyway an activator gesture to show the iBatteryInfo Pro pop-up to show all important data about your cable and battery anywhere).";
+"TOOLS" = "Tools";
+"ALERT_OPTIONS" = "Alert Options";
+"ADVANCED_INFORMATIONS" = "Advanced Informations";
+"BATTERY_DATA" = "Battery Data";
+"CABLE_INFO" = "Cable Info";
+"DATA_SHARING_CENTER" = "Data Sharing Center";
+"DATA_SHARING" = "Data Sharing";
+"MISC_OPTIONS" = "Miscellaneous Options";

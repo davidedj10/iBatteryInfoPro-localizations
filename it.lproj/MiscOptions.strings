@@ -1,0 +1,11 @@
+"ENABLE" = "Abilita";
+"MISC_OPTIONS" = "Opzioni Varie";
+"CELSIUS_TO_F" = "Celsius a Fahrenheit";
+"CELSIUS_TO_F_DESCRIPTION" = "Con questa impostazione potrai convertire la temperatura da Celsius a Fahrenheit.";
+"STATUSBAR_MAH" = "mAh rimanenti nella StatusBar";
+"STATUSBAR_DESC" = "Mostra i mAh rimanenti nella StatusBar. (Respring Richiesto).";
+"TIME_MODE" = "Formato Ora";
+"FULLCHARGE_WARNING" = "Avviso Carica completa";
+"FULLCHARGE_DESC" = "Mostra un avviso quando la batteria del dispositivo è completamente carica. (anche quando il cavo viene inserito/rimosso se completamente carica!).";
+"UNSUPPORTED_CABLE_DISABLE" = "Rimozione avviso cavi non supportati (Beta!)";
+"UNSUPPORTED_DESC" = "Questa opzione rimuove l'avviso dei cavi 'non certificati' quando il dispositivo viene connesso a un cavo prodotto da terze parti. (Questa è una funzione beta e potrebbe non funzionare sempre.) *alcuni cavi non certificati possono recare danni al tuo dispositivo usalo a tuo rischio.";

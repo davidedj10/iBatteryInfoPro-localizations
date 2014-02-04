@@ -1,0 +1,4 @@
+"CABLE_INFO" = "Cable Info";
+"CABLE_FOOTER_DESC" = "(N.B.: Not all informations are available for all devices. Raw data should be interpreted, like temperature.)";
+"LINK_STATUS" = "Link Status";
+"RAW_INFORMATIONS" = "Raw cable informations";

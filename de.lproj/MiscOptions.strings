@@ -1,0 +1,11 @@
+"ENABLE" = "Aktivieren";
+"MISC_OPTIONS" = "Verschiedene Optionen";
+"CELSIUS_TO_F" = "Celsius zu Fahrenheit";
+"CELSIUS_TO_F_DESCRIPTION" = "Hiermit mit die Temperatur in Fahrenheit oder Celsius angegeben.";
+"STATUSBAR_MAH" = "verbleibende mAh in StatusBar";
+"STATUSBAR_DESC" = "verbleibende mAh neben der Zeit anzeigen. (Springboard neustart nötig).";
+"TIME_MODE" = "Zeit modus";
+"FULLCHARGE_WARNING" = "Voll geladen Warunung";
+"FULLCHARGE_DESC" = "Zeigt einen Alarm wenn das iDevice voll geladen ist. (Auch wenn ein Kabel verbunden oder getrennt wird und die Batterie bereit voll Geladen ist!)";
+"UNSUPPORTED_CABLE_DISABLE" = "Nicht Unterstütze Kabel verwenden. (Sehr frühe Beta!)";
+"UNSUPPORTED_DESC" = "Diese Opetion erlaubt dir nicht unterstützte Kabel zu verwenden. (Diese Funktion ist in einer sehr frühen Beta phase. Es funktioniert vielleicht nocht nicht überall.) *Manche Unzertifizierten Kabel können schäden an deinem Gerät verursachen. Verwenden dieser Funktion geschiet auf eigene Gefahr und auf eigene Verantwortung.";
