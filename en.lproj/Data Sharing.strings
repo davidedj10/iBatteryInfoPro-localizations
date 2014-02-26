@@ -1,7 +1,7 @@
-"DATA_SHARING_ABOUT" = "In this section you can send data about your battery anonymously to iBatteryInfo Center and consult other users battery data (to compare values).";
-"LAST_SUBMIT" = "Last Submit: ";
-"SUBMIT_DESCRIPTION" = "Sending data may take a while, when the process is finished a pop-up will be showed to tell the result of the operation. (Obviously you will need a WiFi or a 3G connection to do that). The data you send will not be traced back to you, neither your IP address will not be stored on the server.";
-"SUBMIT_DATA" = "Submit your battery data";
-"COMMUNITY_DATA" = "To see the community submissions press here. You can access to the following site from your desktop pc though this address: http://spottedup.net/";
-"SEE_COMMUNITY_DATA" = "See Community data";
-"DATA_SHARING" = "Data Sharing";
+"DATA_SHARING_ABOUT" = "(في هذا القسم يمكنك إرسال البيانات عن البطارية مركز بطاريةأنفو ومجهول للتشاور مستخدمين آخرين البيانات البطارية (لمقارنة القيم";
+"LAST_SUBMIT" = "إرسال المشاركة";
+"SUBMIT_DESCRIPTION" = "إرسال البيانات قد يستغرق بعض الوقت، وعندما يتم الانتهاء من عملية سوف تظهر نافذة منبثقة لنقول للنتيجة العملية. (ومن الواضح أن كنت في حاجة الى اتصال الجيل الثالث واي فاي أو لفعل ذلك). لن يتم إرجاع البيانات التي ترسل إليك، لا لن يتم تخزين عنوان IP الخاص بك على الخادم.";
+"SUBMIT_DATA" = "تقديم بيانات البطارية";
+"COMMUNITY_DATA" = "لمعرفة التقديمات المجتمع صحفى هنا. يمكنك الوصول إلى الموقع التالي من كمبيوتر سطح المكتب على الرغم من هذا العنوان: http://spottedup.net/";
+"SEE_COMMUNITY_DATA" = "الاطلاع على بيانات الجماعة";
+"DATA_SHARING" = "مشاركة البيانات";
